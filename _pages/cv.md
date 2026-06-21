@@ -61,7 +61,8 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+  {% comment %}
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
@@ -73,6 +74,7 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+{% endcomment %}
   
 Service and Leadership
 ======
