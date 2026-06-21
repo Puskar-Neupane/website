@@ -16,7 +16,6 @@ Education
   * Coursework: Steady State Analysis, Voltage Stability, Convex Optimization, Numerical Analysis
 
 * **B.E. in Electrical Engineering**, Pulchowk Campus, Tribhuvan University, Kathmandu, Nepal, 2019–2024
-  * Percentage: 79.27%
   * Capstone Project: Virtual Oscillator Control for Inverters
 
 Work Experience
