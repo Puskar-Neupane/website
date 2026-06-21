@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "The world without electricity"
+title: "Puskar Neupane"
 author_profile: true
 redirect_from: 
   - /about/
