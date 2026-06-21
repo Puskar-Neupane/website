@@ -21,6 +21,10 @@ Education
 Work Experience
 ======
 
+* **Graduate Research Assistant**, Iowa State University, Ames, Iowa, USA, Aug. 2025 – Present
+  * Conducting research in power systems, optimization, and control.
+  * Developing analytical and computational methods for power system stability, solvability, and distributed energy resource integration.
+    
 * **Associate Electrical Engineer**, K&A Engineering Consultancy P.C., White Plains, NY, USA, Nov. 2024 – Apr. 2025
   * Worked on distribution system upgrades and grid hardening projects for utility networks in California.
   * Assessed pole loading capacity using O-Calc and designed infrastructure upgrades.
