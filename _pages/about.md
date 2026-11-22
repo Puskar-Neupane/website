@@ -21,8 +21,8 @@ Research Interests
 Recent News
 ======
 
-- <span style="color: #1565c0; font-weight: bold;">November 2026:</span> Selected for a student poster presentation at the [LANL Grid Science Winter School]([WINTER_SCHOOL_URL](https://web.cvent.com/event/d6dcb6c5-dee0-4a22-b782-873001f3fed4/summary)).
-- <span style="color: #1565c0; font-weight: bold;">September 2026:</span> Our [paper]([PAPER_URL](https://arxiv.org/pdf/2603.17376)) titled "A Cycle-Based Solvability Condition for Real Power Flow Equations" is accepted for presentation at the [2026 IEEE Conference on Decision and Control (CDC)](https://cdc2026.ieeecss.org/).
+- <font-weight: bold;">November 2026:</span> Selected for a student poster presentation at the [LANL Grid Science Winter School]([WINTER_SCHOOL_URL](https://web.cvent.com/event/d6dcb6c5-dee0-4a22-b782-873001f3fed4/summary)).
+- <font-weight: bold;">September 2026:</span> Our [paper]([PAPER_URL](https://arxiv.org/pdf/2603.17376)) titled "A Cycle-Based Solvability Condition for Real Power Flow Equations" is accepted for presentation at the [2026 IEEE Conference on Decision and Control (CDC)](https://cdc2026.ieeecss.org/).
 
 
 {% comment %}
