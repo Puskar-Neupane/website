@@ -18,6 +18,12 @@ Research Interests
 - Operation and Planning
 - Optimization and Control
 
+Recent News
+======
+- Nov, 2026: Selected for a student poster presentation at the LANL Grid Science Winter School 2027.
+- July, 2026: Our Paper titled "A Cycle-Based Solvability Condition for Real Power Flow Equations" is accepted for presentation at the 2026 IEEE Conference on Decision and Control (CDC).
+
+
 {% comment %}
 Getting started
 ======
